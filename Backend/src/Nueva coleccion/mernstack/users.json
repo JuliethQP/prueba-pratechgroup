@@ -1,0 +1,1 @@
+{ "_id" : { "$oid" : "5fb975836bdee725d8bcb33f" }, "username" : "Julieth", "password" : "password", "email" : "dffgg@gmail.com", "gender" : "gender", "profession" : "profession", "phoneNumber" : 1234, "birthday" : "2020-12-12", "createdAt" : { "$date" : "2020-11-21T20:16:03.505+0000" }, "updatedAt" : { "$date" : "2020-11-21T20:16:03.505+0000" }, "__v" : 0 }

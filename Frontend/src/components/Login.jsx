@@ -27,7 +27,7 @@ export default function Login() {
       history.push('/home')
     }
     else {
-      alert("You don't have an account, please create one")
+      alert("Username or password incorrect or maybe you don't have an account, please create one")
     }
   }
 
