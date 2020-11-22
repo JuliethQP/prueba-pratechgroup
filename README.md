@@ -3,11 +3,11 @@
 * C:\Program Files\MongoDB\Server\4.4\bin
 * click on --> mongod o mongo
 * resource: https://treehouse.github.io/installation-guides/windows/mongo-windows.html
-2) go to a terminal:
+2) Go to a terminal:
 * prueba-pratechgroup/Backend/src
 * npm i
 * npm run dev
-3) go to another terminal
+3) Go to another terminal
 * prueba-pratechgroup/Frontend/
 * npm i
 * npm start
